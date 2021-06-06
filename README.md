@@ -1,1 +1,4 @@
 # Multiple-Regression-Computing
+
+In this project, I have one setting of 1000 of DV(dependent variables) data, and 31 IV(independent variables include 6 environment variables and 25 genetic variables ) data set. The research is seeking significant environment independent variables that affect the model the most by checking the R2, then add the significant genetic independent variables, finally putting the interaction of significant environment independent variables and genetic independent variables. The goal is to find a model that provides the best prediction of Y, given these 31 IVs. 
+Final model must conduct the analysis as planned which involved regression diagnostic methods such as residual analysis; selecting model of the criterion by R2 , F, T and CP. Apply four methods to impute missing entries to develop the best model. I have 1000 observation with 620 complete and 380 NA. Seeking the highest R2 as possible while comparison with other models. 
